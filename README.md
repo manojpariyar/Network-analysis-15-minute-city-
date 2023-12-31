@@ -6,9 +6,19 @@ The aim of this project is to find the shortest and the quickest paths from each
 
 The interactive map also includes building polygons and road network with some relevant attributes for reference.
 
-Some basic statistics:
+### Some basic statistics:
 
-Map:
+### Map:
+
+
+
+
+
+
+
+
+
+
 <img width="558" alt="15 minute city" src="https://github.com/manojpariyar/Network-analysis-15-minute-city-/assets/114010808/936985cb-5c73-493c-a3af-3f7b25969f1b">
 
 ## How to use: 
