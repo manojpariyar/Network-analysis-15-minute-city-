@@ -1,1 +1,6 @@
-# Network-analysis-15-minute-city-
+# Network-analysis-15-minute-city
+
+This is a map showing the road network distance between the houses (points of origin) to different service centres (points of destination) including the shortest paths. 100 houses are selected randomly for the purpose of this project. The "Houses" points also includes the travel time by walk or by bike from the houses to the service centres assuming that the average speed is 5 km per hour and 20 km per hour by walk and by bike respectively.
+
+## How to use: 
+The overall shortest routes can be selected simply by selecting the "Shortest Path" in the selection panel. Since there are 100 houses, the shortest routes also displays 100 routes for each service points. To display the shortest routes for point of origin and point of destination, you can simply select the points on the selection layer. Selecting both points of origin and point of destination at the same time may most likely not display the routes because they may not be connected by shortest routes. Selecting the "Houses" points displays the distance and travel time information. The houses can also be selected based on the scaler display showing the Walk Time (WT) and Bike Time (BT) to different service points.
