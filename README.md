@@ -8,6 +8,14 @@ The interactive map also includes building polygons and road network with some r
 
 ### Some basic statistics:
 
+
+
+
+
+
+
+
+![Descriptive_Stat](https://github.com/manojpariyar/Network-analysis-15-minute-city-/assets/114010808/18fb2d09-0f82-4df2-ba2f-f014c8b0780d)
 ### Map:
 
 
