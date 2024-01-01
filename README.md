@@ -15,7 +15,7 @@ The interactive map also includes building polygons and road network with some r
 
 
 
-![Descriptive_Stat](https://github.com/manojpariyar/Network-analysis-15-minute-city-/assets/114010808/18fb2d09-0f82-4df2-ba2f-f014c8b0780d?size=20)
+![Descriptive_Stat](https://github.com/manojpariyar/Network-analysis-15-minute-city-/assets/114010808/f2a611fb-d6bd-45b0-bb3e-e84ad467668d)
 The above tables show the shortest distance and the quickest Walk Time and Bike Time from each house to respective service points. According to the tables, 75 houses are within 687-meter distance, 8.25 minutes’ walk time, and 2 minute’s bike time from the retails. Likewise, kindergartens and schools are also significantly closer to the service points. Almost all service centres are within 15 minutes Bike Time from the service points.
 ### Map:
 
